@@ -1,28 +1,6 @@
-== README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Run with "rails server"
 
-Things you may want to cover:
+Made by following the tutorial How to Build a Todo App with Ruby on Rails by David Allen
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+link: https://medium.com/@deallen7/how-to-build-a-todo-app-in-rails-e6571fcccac3
